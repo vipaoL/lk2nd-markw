@@ -17,7 +17,7 @@
 		compatible = "xiaomi,markw-panel";
 
 		qcom,mdss_dsi_nt35596_ebbg_1080p_video {
-			compatible = "mdss,nt35596-ebbg"
+			compatible = "mdss,nt35596-ebbg";
 		};
 	};
 };
